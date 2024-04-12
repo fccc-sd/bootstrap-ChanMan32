@@ -1,0 +1,49 @@
+body{ 
+  background-color:rgb(0, 0, 0); 
+  font-size: 1em; 
+  font-weight:normal; 
+  color:white;
+}
+.links li 
+{
+display: inline; 
+padding-right: 40px; 
+list-style-type: none;
+color:aliceblue;
+}
+
+nav
+{
+  color:aliceblue; 
+}
+button
+{
+  margin-top: 10px; 
+}
+
+ul
+{
+  list-style-type: none;
+}
+div
+{
+  margin-left: 10px; 
+  color: aliceblue; 
+}
+p
+{
+  margin-left: 10px; 
+}
+h3
+{
+  margin-left: 10px; 
+  color: aliceblue; 
+}
+h2
+{
+  margin-left: 10px; 
+}
+#God
+{
+  color: gold;
+}
